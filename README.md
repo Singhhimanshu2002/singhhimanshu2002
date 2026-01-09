@@ -3,7 +3,6 @@
 
 <p align="center">
 🚀 Passionate about building real-world AI systems using Python, Computer Vision, and Web Technologies.  
-💡 I love working on projects like Face Recognition, Smart Surveillance, Automated Attendance, and Security Systems.  
 🎓 Currently pursuing MCA | Constantly learning & experimenting with new tech.
 </p>
 
