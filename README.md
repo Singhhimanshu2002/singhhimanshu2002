@@ -8,14 +8,6 @@
 
 ---
 
-## 👨‍💻 About Me
-- 🔭 Working on **AI-powered Security & Surveillance Systems (SentinelAI)**
-- 🧠 Strong interest in **Computer Vision, Machine Learning & Deep Learning**
-- 🌐 Building **Flask/Django based Web Applications**
-- 🗄️ Experienced with **SQL & NoSQL databases**
-- 📈 Focused on **clean code, scalability & real-world problem solving**
-- ⚡ Fun fact: *I turn college projects into production-level systems 😄*
-
 ---
 
 ## 💻 Tech Stack
